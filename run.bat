@@ -1,0 +1,1 @@
+.\wall_v1.exe 1920 C:\Wallpaper
